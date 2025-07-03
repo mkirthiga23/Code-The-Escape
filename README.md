@@ -1,25 +1,25 @@
 # Code-The-Escape
 All the submissions of the ACA Summer'25 project Code the Escape 
-# 🚀 Code The Escape
+# Code The Escape
 
 Welcome to the official repository for **Code The Escape** — a hands-on ACA Summer '25 project focused on mastering **Data Structures & Algorithms in C++** through real-world applications and mentorship.
 
 ---
 
-## 🧩 About the Project
+## About the Project
 
 This project takes mentees through a structured journey of:
-- 🔍 **STL Mastery**: Sets, Maps, Hashing, Priority Queues
-- 📊 **Sorting & Searching Techniques**
-- 🔁 **Recursion, Trees & Linked Lists**
-- 🌐 **Graph Algorithms**: BFS, DFS, Dijkstra, Topological Sort
-- 🧭 **Capstone Maze Solver** using Graph Algorithms
+-  **STL Mastery**: Sets, Maps, Hashing, Priority Queues
+-  **Sorting & Searching Techniques**
+-  **Recursion, Trees & Linked Lists**
+-  **Graph Algorithms**: BFS, DFS, Dijkstra, Topological Sort
+-  **Capstone Maze Solver** using Graph Algorithms
 
 It’s not just theory — students apply concepts through **contests**, **challenges**, and end by building a **Maze Solver bot** capable of pathfinding using real graph logic.
 
 ---
 
-## 🗓️ Weekly Timeline
+##  Weekly Timeline
 
 | Week | Topics Covered |
 |------|----------------|
@@ -34,7 +34,7 @@ It’s not just theory — students apply concepts through **contests**, **chall
 
 ---
 
-## 👩‍🏫 Mentors
+##  Mentors
 
 - **Anushka Gupta** – anushkag23@iitk.ac.in
 - **Kajal** – kajalb23@iitk.ac.in
@@ -43,7 +43,7 @@ It’s not just theory — students apply concepts through **contests**, **chall
 
 ---
 
-## 📘 Quiz 0
+##  Quiz 0
 - [Vegesna Ram Charan Varma](https://github.com/vramcharanvarma/quiz-0-241156)
 - [Kallu Venkata Prasun](https://github.com/venkataprasun16/Quiz_0_Kallu-Venkata-Prasun_240508)
 - [Aryan deo](https://github.com/ard714/assignments_Aryan_Deo_230213_code_the_escape_ACA/tree/main/quiz0)
@@ -56,7 +56,7 @@ It’s not just theory — students apply concepts through **contests**, **chall
  
 
 
-## 📘 Assignment 1 
+##  Assignment 1 
 - [Vegesna Ram Charan Varma](https://github.com/vramcharanvarma/assignment-1-241156)
 - [Kallu Venkata Prasun](https://github.com/venkataprasun16/Assignment_1_Kallu-Venkata-Prasun_240508)
 - [Aryan deo](https://github.com/ard714/assignments_Aryan_Deo_230213_code_the_escape_ACA/tree/main/assignment_1)
@@ -75,7 +75,7 @@ It’s not just theory — students apply concepts through **contests**, **chall
 - [S Neha Patel](https://github.com/nehapatel-ctrl/Code-the-escape-cpp/tree/Assignments)
 
   
-## 📙 Assignment 2 
+##  Assignment 2 
 - [KOOLLA PRAVEEN SIDDARTH](https://github.com/praveen-1-png/praveen-240552-assignment2.git)
 - [Vegesna Ram Charan Varma](https://github.com/vramcharanvarma/assignment-2-241156)
 - [Kallu Venkata Prasun](https://github.com/venkataprasun16/Assignment_2_Kallu-Venkata-Prasun_240508)
